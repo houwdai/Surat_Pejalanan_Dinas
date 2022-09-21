@@ -1,4 +1,4 @@
 .vs/
 
-Surat_Pejalanan_Dinas/bin/
-Surat_Pejalanan_Dinas/obj/
+Surat_Pejalanan_Dinas/bin/*
+Surat_Pejalanan_Dinas/obj/*
